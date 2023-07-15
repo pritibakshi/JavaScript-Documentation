@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.wrapper{
+    min-width: 100vw;
+    height:auto;
+}
+.container{
+    width: 2040px;
+    height: 1753px; 
+}
+.hero{
+width: 1440px;
+height: 1353px;
+background: #FFFFFF;
+}
+.hero{
+    display: flex;
+}
+.hleft{
+    width: 193px;
+    height: 2398px; 
+    background: #F8F8F8;
+border: 1px solid #000000;
+
+}
+.hin{
+    width: 1070px;
+    height: 102px; 
+    background: #EBEBEB;  
+}
